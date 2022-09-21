@@ -13,19 +13,18 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 
 模板内容如下：
-
-{{date.DATA}} 
-喜欢胜过所有道理，原则抵不过我乐意
-地区：{{region.DATA}} 
-天气：{{weather.DATA}} 
-气温：{{temp.DATA}} 
-风向：{{wind_dir.DATA}} 
-最低气温：{{min_temperature.DATA}} 
-最高气温：{{max_temperature.DATA}} 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
-{{note_en.DATA}} 
-{{note_ch.DATA}}
+今天又是元气满满的一天 ૮ ・ﻌ・ა 
+下面为姐姐播报今天的天气  o(〃'▽'〃)o
+{{first.DATA}} 
+城市：{{keyword1.DATA}} 
+今天天气：{{keyword2.DATA}} 
+最低气温：{{keyword3.DATA}} 
+最高气温：{{keyword4.DATA}} 
+距离宝宝的生日还有{{keyword6.DATA}}天
+距离我的生日还有{{keyword7.DATA}} 天
+每日寄言：{{keyword8.DATA}} 
+{{remark.DATA}}
+ʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
 
 
 天气key生成教程
